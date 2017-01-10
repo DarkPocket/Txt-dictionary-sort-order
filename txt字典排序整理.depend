@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1483278998 source:f:\c代码\c源程序\blocks 测试\算法练习\txt字典排序整理\linklist.c
+	"linkList.h"
+	<malloc.h>
+	<string.h>
+
+1483279528 f:\c代码\c源程序\blocks 测试\算法练习\txt字典排序整理\linklist.h
+	<stdio.h>
+	<stdlib.h>
+
+1478154209 source:f:\c代码\c源程序\blocks 测试\算法练习\txt字典排序整理\timing_function.c
+	"Timing_function.h"
+	<malloc.h>
+
+1478153925 f:\c代码\c源程序\blocks 测试\算法练习\txt字典排序整理\timing_function.h
+	<time.h>
+
+1483763221 source:f:\c代码\c源程序\blocks 测试\算法练习\txt字典排序整理\main.c
+	<stdio.h>
+	<dirent.h>
+	<string.h>
+	<windows.h>
+	"linkList.h"
+	<errno.h>
+
